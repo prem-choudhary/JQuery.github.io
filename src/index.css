@@ -5,7 +5,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #5c4545;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -65,4 +65,17 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+#green{
+  /* align-items: center; */
+
+  height: 350px;
+  width: 300px;
+  border: 2px solid red;
+  border-radius: 15px ;
+}
+#p2{
+  background-color: #913333;
+  font-size: 23px;
+  color: #6165a0;
 }
